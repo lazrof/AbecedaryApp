@@ -14,3 +14,8 @@ Future Feature:
 
 TODOS:
 - Investigar que libreria de CSS existe para agregarle efecto al tipeo.
+- investigate the use of 
+  - First effect from https://niemvuilaptrinh.medium.com/28-text-effect-html-css-for-developer-424239054959
+  - https://www.cssscript.com/demo/confetti-animation-party/
+  - https://typedcss.com/
+
